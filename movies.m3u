@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:5753 group-title="Horror" tvg-logo="https://archive.org/download/night-of-the-living-dead-movie-poster/NOTLD2x1200.jpg", Night of the Living Dead (1968)
+#EXTINF:5753 group-title="Horror" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Night_Of_The_Living_Dead_%281968%29_-_Poster.jpg", Night of the Living Dead (1968)
 https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead.mp4
 
-#EXTINF:5320 group-title="Adventure" tvg-logo="https://archive.org/download/captain-kidd-poster/Captain_Kidd_Poster.jpg", Captain Kidd (1945)
+#EXTINF:5320 group-title="Adventure" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Captain-Kidd-1945.jpg/250px-Captain-Kidd-1945.jpg", Captain Kidd (1945)
 https://archive.org/download/captain-kidd-1945_202609/CaptainKidd_512kb.mp4
 
 #EXTINF:4343 group-title="Mystery" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/The_Thirteenth_Chair_FilmPoster.jpeg/330px-The_Thirteenth_Chair_FilmPoster.jpeg", The Thirteenth Chair (1929)
