@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:5753 group-title="Horror" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Night_Of_The_Living_Dead_%281968%29_-_Poster.jpg", Night of the Living Dead (1968)
+#EXTINF:5753 group-title="Horror" tvg-logo="https://archive.org/download/night-of-the-living-dead-movie-poster/NOTLD2x1200.jpg", Night of the Living Dead (1968)
 https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead.mp4
 
-#EXTINF:5320 group-title="Adventure" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Captain-Kidd-1945.jpg/250px-Captain-Kidd-1945.jpg", Captain Kidd (1945)
+#EXTINF:5320 group-title="Adventure" tvg-logo="https://archive.org/download/captain-kidd-poster/Captain_Kidd_Poster.jpg", Captain Kidd (1945)
 https://archive.org/download/captain-kidd-1945_202609/CaptainKidd_512kb.mp4
 
 #EXTINF:4343 group-title="Mystery" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/The_Thirteenth_Chair_FilmPoster.jpeg/330px-The_Thirteenth_Chair_FilmPoster.jpeg", The Thirteenth Chair (1929)
@@ -39,16 +39,16 @@ https://archive.org/download/TheVampireBat/TheVampireBat_512kb.mp4
 #EXTINF:4751 group-title="Horror" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmU0YjQ5OTUtZGJiYS00MWY0LTkxYjYtODEyZGJmYjhkNWIxXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg", Nosferatu (1922)
 https://archive.org/download/nosferatu-1922_202504/Nosferatu%20%281922%29.mp4
 
-#EXTINF:1483 group-title="Comedy" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/The_Vagabond_%281916%29.jpg/330px-The_Vagabond_%281916%29.jpg", The Vagabond (1916)
+#EXTINF:1483 group-title="Comedy" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/The_Vagabond_%281916%29.jpg/330px-The_Vagabond_%281916%29.jpg", Charlie Chaplin's 'The Vagabond' (1916)
 https://archive.org/download/CC_1916_07_10_TheVagabond/CC_1916_07_10_TheVagabond.mp4
 
-#EXTINF:1221 group-title="Comedy" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/%27The_Pawnshop%27.jpg/330px-%27The_Pawnshop%27.jpg", The Pawnshop (1916)
+#EXTINF:1221 group-title="Comedy" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/%27The_Pawnshop%27.jpg/330px-%27The_Pawnshop%27.jpg", Charlie Chaplin's 'The Pawnshop' (1916)
 https://archive.org/download/CC_1916_10_02_ThePawnshop/CC_1916_10_02_ThePawnshop_512kb.mp4
 
-#EXTINF:1169 group-title="Comedy" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/The_Rink_%28poster%29.jpg/330px-The_Rink_%28poster%29.jpg", The Rink (1916)
+#EXTINF:1169 group-title="Comedy" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/The_Rink_%28poster%29.jpg/330px-The_Rink_%28poster%29.jpg", Charlie Chaplin's 'The Rink' (1916)
 https://archive.org/download/CC_1916_12_04_TheRink/CC_1916_12_04_TheRink_512kb.mp4
 
-#EXTINF:1166 group-title="Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/The_Floorwalker_%28poster%29.jpg", The Floorwalker (1916)
+#EXTINF:1166 group-title="Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/The_Floorwalker_%28poster%29.jpg", Charlie Chaplin's 'The Floorwalker' (1916)
 https://archive.org/download/CC_1916_05_15_TheFloorwalker/CC_1916_05_15_TheFloorwalker_512kb.mp4
 
 #EXTINF:1147 group-title="Comedy" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Cure_1917_Poster.jpg/330px-Cure_1917_Poster.jpg", Charlie Chaplin's 'The Cure' (1917)
@@ -68,3 +68,21 @@ https://archive.org/download/CC_1915_10_04_CharlieShanghaied/CC_1915_10_04_Charl
 
 #EXTINF:6388 group-title="Horror" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/The_Phantom_of_the_Opera_%281925_film%29.jpg/330px-The_Phantom_of_the_Opera_%281925_film%29.jpg", The Phantom of the Opera (1925)
 https://archive.org/download/ThePhantomoftheOpera/Phantom_of_the_Opera_512kb.mp4
+
+#EXTINF:1210 group-title="Comedy" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/The_Count.jpg/330px-The_Count.jpg", Charlie Chaplin's 'The Count' (1916)
+https://archive.org/download/CC_1916_09_04_TheCount/CC_1916_09_04_TheCount_512kb.mp4
+
+#EXTINF:4337 group-title="Adventure" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Ironmaskposter.jpg/330px-Ironmaskposter.jpg", The Iron Mask (1929)
+https://archive.org/download/iron_mask/iron_mask_512kb.mp4
+
+#EXTINF:1008 group-title="Comedy" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/One_A.M._poster.jpg/330px-One_A.M._poster.jpg", Charlie Chaplin's 'One A.M.' (1916)
+https://archive.org/download/CC_1916_08_07_One_A_M/CC_1916_08_07_One_A_M_512kb.mp4
+
+#EXTINF:358 group-title="Comedy" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/CC_Kid_Auto_Races_at_Venice_1914_%28poster%29.jpg/330px-CC_Kid_Auto_Races_at_Venice_1914_%28poster%29.jpg", Charlie Chaplin's 'Kids Auto Race At Venice' (1914)
+https://archive.org/download/CC_1914_02_07_KidsAutoRaceAtVenice/CC_1914_02_07_KidsAutoRaceAtVenice_512kb.mp4
+
+#EXTINF:4241 group-title="Adventure" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Mr-Robinson-Crusoe-1932.jpg/330px-Mr-Robinson-Crusoe-1932.jpg", Mr. Robinson Crusoe (1932)
+https://archive.org/download/mr_robinson_crusoe/video_512kb.mp4
+
+#EXTINF:4381 group-title="Drama" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Vintage_Potemkin.jpg/330px-Vintage_Potemkin.jpg", Battleship Potemkin (1925)
+https://archive.org/download/BattleshipPotemkin/Battleship_Potemkin_512kb.mp4
